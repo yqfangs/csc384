@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c00af93-c6e2-4698-b42f-e2598eb80332" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YyG1ZycM5hUQ6Pu1gXZNpv716Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="options.lastSelected" value="configurable.group.tools" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.32666665" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.initial_tests">
+    <configuration name="initial_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/initial_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="randy_ai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randy_ai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.initial_tests" />
+        <item itemvalue="Python.randy_ai" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c00af93-c6e2-4698-b42f-e2598eb80332" name="Default Changelist" comment="" />
+      <created>1583907206613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583907206613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="928" height="285" key="GridCell.Tab.0.bottom" timestamp="1584446439668">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="928" height="146" key="GridCell.Tab.0.bottom/0.23.1280.706@0.23.1280.706" timestamp="1584075243236" />
+    <state width="928" height="286" key="GridCell.Tab.0.bottom/0.23.1280.707@0.23.1280.707" timestamp="1584238322223" />
+    <state width="928" height="187" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1584240288990" />
+    <state width="928" height="285" key="GridCell.Tab.0.bottom/0.23.1280.711@0.23.1280.711" timestamp="1584446439668" />
+    <state width="928" height="165" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1584436691565" />
+    <state width="928" height="216" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1584427302357" />
+    <state width="928" height="154" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1584246022965" />
+    <state width="928" height="285" key="GridCell.Tab.0.center" timestamp="1584446439667">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="928" height="146" key="GridCell.Tab.0.center/0.23.1280.706@0.23.1280.706" timestamp="1584075243234" />
+    <state width="928" height="286" key="GridCell.Tab.0.center/0.23.1280.707@0.23.1280.707" timestamp="1584238322222" />
+    <state width="928" height="187" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1584240288989" />
+    <state width="928" height="285" key="GridCell.Tab.0.center/0.23.1280.711@0.23.1280.711" timestamp="1584446439667" />
+    <state width="928" height="165" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1584436691564" />
+    <state width="928" height="216" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1584427302356" />
+    <state width="928" height="154" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1584246022963" />
+    <state width="928" height="285" key="GridCell.Tab.0.left" timestamp="1584446439659">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="928" height="146" key="GridCell.Tab.0.left/0.23.1280.706@0.23.1280.706" timestamp="1584075243232" />
+    <state width="928" height="286" key="GridCell.Tab.0.left/0.23.1280.707@0.23.1280.707" timestamp="1584238322222" />
+    <state width="928" height="187" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1584240288988" />
+    <state width="928" height="285" key="GridCell.Tab.0.left/0.23.1280.711@0.23.1280.711" timestamp="1584446439659" />
+    <state width="928" height="165" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1584436691564" />
+    <state width="928" height="216" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1584427302355" />
+    <state width="928" height="154" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1584246022962" />
+    <state width="928" height="285" key="GridCell.Tab.0.right" timestamp="1584446439667">
+      <screen x="0" y="23" width="1280" height="711" />
+    </state>
+    <state width="928" height="146" key="GridCell.Tab.0.right/0.23.1280.706@0.23.1280.706" timestamp="1584075243235" />
+    <state width="928" height="286" key="GridCell.Tab.0.right/0.23.1280.707@0.23.1280.707" timestamp="1584238322223" />
+    <state width="928" height="187" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1584240288989" />
+    <state width="928" height="285" key="GridCell.Tab.0.right/0.23.1280.711@0.23.1280.711" timestamp="1584446439667" />
+    <state width="928" height="165" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1584436691565" />
+    <state width="928" height="216" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1584427302356" />
+    <state width="928" height="154" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1584246022964" />
+    <state x="160" y="23" width="982" height="706" key="SettingsEditor" timestamp="1583908517967">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state x="160" y="23" width="982" height="706" key="SettingsEditor/0.23.1280.706@0.23.1280.706" timestamp="1583908517967" />
+    <state x="533" y="61" width="670" height="58" key="search.everywhere.popup" timestamp="1584253102058">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="533" y="61" width="670" height="58" key="search.everywhere.popup/0.23.1280.714@0.23.1280.714" timestamp="1584253102058" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+
+1. Consider deadlocks, which the game is in a state with no solution, i.e. the box is at the corner, but not a storage point, which means no further move is available for the box
+
+2. Needs to consider all cases of corner that may be created by wall, obstacles or other boxes
+
+3. Since robot moves without a box also has a cost, can record the previous heuristic number as a global variable if all the positions of the boxes did not change
+
+4. Consider the case
